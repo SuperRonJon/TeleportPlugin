@@ -1,0 +1,7 @@
+name: Teleportation
+version: ${project.version}
+main: superronjon.teleportation.Teleportation
+commands:
+  tele:
+  y:
+  n:
